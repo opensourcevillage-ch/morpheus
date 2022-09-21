@@ -3,6 +3,8 @@ Bienvenue sur le git de Morpheus Veilles.
 
 Pour accéder au wiki : <a href="https://github.com/opensourcevillage-ch/morpheus/wiki">cliquez-ici</a>
 
+![morpheus](https://user-images.githubusercontent.com/22891174/191594756-217eacdd-8e01-46bb-bc79-fbfbae607e46.jpg)
+
 # Introduction
 Conçu pour répondre aux besoins des EMS et CAT de l’association ARPEGE, cet outil permet d’assister la surveillance de nuit dans un cadre hospitalier de manière sécurisée avec une attention particulière sur le respect de la vie privée des patients et collaborateurs. 
 
